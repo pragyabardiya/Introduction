@@ -1,4 +1,4 @@
-""" Core scraper for coinmarketcap.com. """
+""" Scraper for coinmarketcap.com. """
 import argparse
 import db
 import logging
